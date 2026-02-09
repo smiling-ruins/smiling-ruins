@@ -1,4 +1,4 @@
-# 👋 HI !:
+# 👋 ABOUT ME :
 🔭 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ<br>• ᴡᴇʙ & ᴀɪ-ᴘᴏᴡᴇʀᴇᴅ ᴘʀᴏᴊᴇᴄᴛs<br>• ᴜɪ/ᴜx ᴡɪᴛʜ ᴛᴀɪʟᴡɪɴᴅ ᴄss + ᴀɴɪᴍᴀᴛɪᴏɴs<br>• ʙᴀᴄᴋᴇɴᴅ ᴀᴘɪs (ɴᴏᴅᴇ.ᴊs, ᴀᴜᴛʜ, ɢᴀᴛᴇᴡᴀʏs)<br><br>👯 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ<br>• ᴏᴘᴇɴ-sᴏᴜʀᴄᴇ ᴡᴇʙ / ᴀɪ ᴘʀᴏᴊᴇᴄᴛs<br>• ᴄᴏᴏʟ sᴛᴀʀᴛᴜᴘ-ʟᴇᴠᴇʟ ɪᴅᴇᴀs<br>• ᴘᴇʀғᴏʀᴍᴀɴᴄᴇ-ғᴏᴄᴜsᴇᴅ ᴜɪs<br><br>🤝 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ғᴏʀ ʜᴇʟᴘ ᴡɪᴛʜ<br>• sᴇᴄᴜʀɪᴛʏ & ʙᴇsᴛ ᴘʀᴀᴄᴛɪᴄᴇs<br>• sᴄᴀʟᴀʙʟᴇ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇs<br>• ʀᴇᴀʟ-ᴡᴏʀʟᴅ ᴅᴇᴘʟᴏʏᴍᴇɴᴛs<br><br>🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ<br>• ᴀɪ ɪɴᴛᴇɢʀᴀᴛɪᴏɴ (ɪᴍᴀɢᴇ, ғɪʟᴇ, ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ)<br>• sʏsᴛᴇᴍ ᴅᴇsɪɢɴ & ᴅᴀᴛᴀ sᴛᴏʀᴀɢᴇ<br>• ʟɪɴᴜx & ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴛᴏᴏʟɪɴɢ<br><br>💬 ᴀsᴋ ᴍᴇ ᴀʙᴏᴜᴛ<br>• ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ<br>• ᴜɪ ᴅᴇsɪɢɴ ᴛʜᴀᴛ ᴀᴄᴛᴜᴀʟʟʏ ᴍᴀᴋᴇs sᴇɴsᴇ<br>• ʙᴀᴄᴋᴇɴᴅ ʟᴏɢɪᴄ & sᴇᴄᴜʀɪᴛʏ ʀᴇᴀʟɪᴛʏ ᴄʜᴇᴄᴋs<br><br>⚡ ғᴜɴ ғᴀᴄᴛ<br>• ɪ ʙʀᴇᴀᴋ ᴛʜɪɴɢs ᴊᴜsᴛ ᴛᴏ ᴜɴᴅᴇʀsᴛᴀɴᴅ ʜᴏᴡ ᴛᴏ ғɪx ᴛʜᴇᴍ 😄
 
 
@@ -14,9 +14,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=smiling-ruins&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=smiling-ruins&icon=2&color=4)](https://visitcount.itsvg.in)
